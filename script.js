@@ -1,9 +1,9 @@
 // Array of your links
 const links = [
-  { name: "FaceBook Page", url: "https://www.rpitssr.edu.kh/" },
-  { name: "Telegram", url: "https://www.rpitssr.edu.kh/" },
+  { name: "FaceBook Page", url: "https://web.facebook.com/rpitssr.edu" },
+  { name: "Telegram", url: "https://t.me/+Pp7hxjppYSkyYTJl" },
   { name: "Website", url: "https://www.rpitssr.edu.kh/" },
-  { name: "Contact Me", url: "https://www.rpitssr.edu.kh/" },
+  { name: "Information", url: "https://t.me/RPITSSR" },
 ];
 
 const container = document.getElementById("link-container");
