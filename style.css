@@ -118,6 +118,11 @@ p {
   background: rgba(255, 255, 255, 0.2);
 }
 
+.link-card:active {
+  transform: scale(0.95);
+  background: rgba(255, 255, 255, 0.3);
+}
+
 .link-icon {
   width: 24px;
   height: 24px;
@@ -131,7 +136,7 @@ p {
   color: #ffffff;
 }
 
-.copy-right{
+.copy-right {
   color: #ccc;
 }
 
@@ -239,7 +244,7 @@ p {
     padding: 25px 15px;
   }
   h1 {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
   }
   .profile-wrapper {
     width: 110px;
