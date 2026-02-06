@@ -21,6 +21,11 @@ const links = [
     url: "https://www.rpitssr.edu.kh/",
     icon: "image/website.png",
   },
+  {
+    name: "ទីតាំងសាលា - Location",
+    url: "https://maps.app.goo.gl/GUDSACse5b7SM4qJ7",
+    icon: "image/location.png",
+  },
 ];
 
 const container = document.getElementById("link-container");
