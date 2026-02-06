@@ -2,8 +2,13 @@
 // NOTE: You may need to update the icon paths to match your files in the 'image' folder.
 const links = [
   {
+    name: "ព័ត៌មានបន្ថែម - Information",
+    url: "https://t.me/RPITSSR",
+    icon: "image/information.png",
+  },
+  {
     name: "ហ្វេកប៊ុក - Facebook",
-    url: "https://web.facebook.com/rpitssr.edu",
+    url: "https://www.facebook.com/share/1CGapyZoww/",
     icon: "image/facebook.png",
   },
   {
@@ -16,7 +21,6 @@ const links = [
     url: "https://www.rpitssr.edu.kh/",
     icon: "image/website.png",
   },
-  { name: "ព័ត៌មានបន្ថែម - Information", url: "https://t.me/RPITSSR", icon: "image/information.png" },
 ];
 
 const container = document.getElementById("link-container");
